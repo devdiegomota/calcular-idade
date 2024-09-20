@@ -28,6 +28,11 @@ footer {
     text-align: center;
     font-style: italic;
 }
-#imagem {
+div #imagem {
     width: 60%;
+    text-align: center;
+}
+img {
+    width: 60%;
+    margin-top: 30px;
 }
